@@ -1,3 +1,3 @@
 public class Eduardo {
-    int eduardito =1;
+    int eduardito =100;
 }
